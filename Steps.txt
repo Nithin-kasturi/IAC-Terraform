@@ -1,0 +1,5 @@
+1. Get Access key and secret key from aws
+2. Create connection btwn aws and terraform
+3. Create VPC and Subnet inside the VPC
+4. "terraform plan" command for look into plan of terraform to get the desired state
+5. "terraform apply" command for applying the changes.
