@@ -114,4 +114,6 @@ resource "aws_instance" "my-app-server" {
   tags = {
     Name="my-app-server"
   }
+  #Execute commands when the server is started
+  user_data =file("entry-script.sh")
 }
