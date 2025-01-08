@@ -7,3 +7,4 @@
 7. Add Internet gateway
 8. Add security group to allow inbound and outbound rules
 9. Create a ec2-instance
+10. Configure ec2 to run nginx server on docker.
